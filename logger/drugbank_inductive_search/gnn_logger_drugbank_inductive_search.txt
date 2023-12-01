@@ -1,0 +1,1 @@
+[8, 'GCNConv', 'GATConv', 'SAGPool', 'global_mean']:0.83

@@ -1,0 +1,1 @@
+[6, 'MFConv', 'GCNConv', 'SAGPool', 'global_mean']:0.85

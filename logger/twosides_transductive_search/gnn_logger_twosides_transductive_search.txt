@@ -1,0 +1,1 @@
+[5, 'GATConv', 'GATConv', 'TopKPool', 'global_add']:0.80
